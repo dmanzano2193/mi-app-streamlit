@@ -16,7 +16,6 @@ certifi==2023.11.17
 cffi==1.16.0
 chardet==5.2.0
 charset-normalizer==3.3.2
-chromedrivermanager==0.0.1
 click==8.1.7
 cloudpathlib==0.16.0
 colorama==0.4.6
@@ -31,12 +30,9 @@ demjson3==3.0.6
 distlib==0.3.8
 docopt==0.6.2
 emoji==2.12.1
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#sha256=65cea113d7509d5ab515583bbcbc9a31b4157bebbb73133d4110d2945476eaa4
-es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0-py3-none-any.whl#sha256=61e6e5530941f5880166855f09f60d7e6ba79ec1e8e45f96244bdb1eb169eb1d
 et-xmlfile==1.1.0
 executing==2.1.0
 extra-streamlit-components==0.1.71
-facebook-scraper==0.2.59
 fake-useragent==1.5.1
 filelock==3.16.1
 Flask==3.0.3
@@ -109,8 +105,6 @@ PyJWT==2.8.0
 pyLDAvis==3.4.1
 pyparsing==3.1.1
 PyPDF2==3.0.1
-pypiwin32==223
-pyppeteer==2.0.0
 pyquery==2.0.1
 pyreadstat==1.2.7
 PySocks==1.7.1
@@ -121,13 +115,10 @@ python-docx==1.1.2
 python-dotenv==1.0.1
 pytz==2023.3.post1
 pyvis==0.3.2
-pywin32==306
-pywin32-ctypes==0.2.2
 PyYAML==6.0.1
 referencing==0.32.1
 regex==2023.12.25
 requests==2.31.0
-requests-html==0.10.0
 rich==13.7.0
 rpds-py==0.17.1
 rsa==4.9
@@ -135,7 +126,6 @@ schedule==1.2.1
 scikit-learn==1.4.0
 scipy==1.11.4
 seaborn==0.13.2
-selenium==4.21.0
 sentiment-analysis-spanish==0.0.25
 setuptools==69.0.3
 six==1.16.0
